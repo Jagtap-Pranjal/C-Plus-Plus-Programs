@@ -3,7 +3,7 @@ using namespace std;
 class A
 {
     public :
-    int m,n;
+    
     A()
     {
      cout<<"Hello I am Default Constructor";
